@@ -1,0 +1,10 @@
+body{
+  margin:60px;
+  width:70%;
+}
+nav ul{
+  font-family:"roboto mono","sans serif";
+  padding:0px;
+  list-style:none;
+  font-weight:bold;
+}
