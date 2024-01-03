@@ -2,9 +2,44 @@ body{
   margin:60px;
   width:70%;
 }
-nav ul{
+nav ul, footing ul{
   font-family:"roboto mono","sans serif";
   padding:0px;
   list-style:none;
   font-weight:bold;
+}
+nav li, footing li{
+  margin-right:20px;
+  display:inline;
+}
+a{
+  text-decoration:none;
+  color: black;
+}
+a:hover{
+  text-decoration:underline;
+  color:#999;
+}
+h1{
+  size:3em;
+  font-family:"roboto mono","sans serif"
+}
+p{
+  font-family:"Roboto Mono", "sans serif"
+  color: black;
+  font-size: 1.5em;
+  ine-height: 1.4em;
+}
+
+footer{
+  border-top: 1px solid #050505;
+  font-size:.8em;
+}
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
 }
