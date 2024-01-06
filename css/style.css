@@ -4,7 +4,7 @@ body{
   background-image:("paper.gif")
 }
 nav ul, footing ul{
-  font-family:"roboto mono","sans serif";
+  font-family:"Roboto Mono","sans serif";
   padding:0px;
   list-style:none;
   font-weight:bold;
@@ -23,7 +23,7 @@ a:hover{
 }
 h1{
   size:3em;
-  font-family:"roboto mono","sans serif";
+  font-family:"Roboto Mono","sans serif";
 }
 p{
   font-family:"Roboto Mono", "sans serif";
