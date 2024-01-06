@@ -1,4 +1,4 @@
-/* body{
+body{
   margin:60px;
   width:70%;
 }
@@ -42,7 +42,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-} */
+} 
 
 
 body {
