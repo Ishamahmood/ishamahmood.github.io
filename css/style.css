@@ -42,7 +42,6 @@ flex-wrap:wrap;
 }
 .mn {  
 display:flex;
-background-color:black; 
 flex-direction:row;
 justify-content:space-around;
 }
