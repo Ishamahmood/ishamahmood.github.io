@@ -1,5 +1,25 @@
 body  {
   background-color: #FFE333;
+  color: black;
+}
+.nav {
+  display:flex;
+  justify-content:center;
+  text-align:center;
+}
+.nav  a{
+  text-size:15px;
+  display:flex;
+  justify-content:center;
+}
+.nav a:hover{
+  color:white;
+}
+divf{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
 }
 
 
