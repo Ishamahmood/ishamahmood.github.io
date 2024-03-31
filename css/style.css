@@ -6,6 +6,7 @@ body  {
   display:flex;
   justify-content:center;
   text-align:center;
+  border:20px;
 }
 .nav  a{
   text-size:15px;
@@ -23,6 +24,7 @@ divf{
   color:white;
   width:80%;
   height:70%;
+  border:20px;
 }
 header{
   text-align:center;
@@ -34,7 +36,7 @@ footer{
   display:block;
   text-align:center;
   background-color:black;
-  height:10px;
+  height:10%;
   width:100%;
 }
 
