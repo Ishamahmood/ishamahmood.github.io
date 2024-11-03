@@ -7,6 +7,14 @@
 <title>
 Isha Tariq</title>
 <div><h1>Isha Tariq.</h1></div></head>
+  <nav  class="nav">
+     <ul>
+       <li>
+        <a href=”projects.html”>Projects</a></li>
+       <li><a href=”blogs.html”>Blog</a></li>
+       <li><a href="reading.html"> Reading log </a></li>
+     </ul>
+   </nav>
 <div></div>
 <body>
 <div><nav><a href=""></a></nav></div>
