@@ -8,14 +8,13 @@ ul {
   color:220 14.3% 95.9%;
     
 }
- a{
-  text-size:20px;
-  display:block;
- padding:  0px 30px 0px 30px;
-  text-align:center;
-  color:220 14.3% 95.9%;
-  text-decoration:none;
+.mn {
+  display: flex;
+  justify-content: center;    /* centers horizontally */
+  align-items: center;        /* centers vertically */
+  min-height: 100vh;         /* take full viewport height */
 }
+
 ul a:hover{
   color:215 27.9% 16.9%;
  
