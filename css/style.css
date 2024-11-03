@@ -25,6 +25,10 @@ ul a:hover{
 body  {
   background-color: 215 27.9% 16.9%;
   colous: 220 14.3% 95.9%;
+  dispaly:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-content:center;
 }
 
 
